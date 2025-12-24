@@ -1,0 +1,16 @@
+# Compiled files
+/target/
+
+# IDE/editor files
+*.rs.bk
+*.swp
+.idea/
+.vscode/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cargo lock (optional, can commit for apps)
+# Cargo.lock
