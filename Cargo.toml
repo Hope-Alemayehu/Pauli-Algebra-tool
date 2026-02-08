@@ -1,7 +1,6 @@
 [package]
 name = "pauli_algebra"
 version = "0.1.0"
-edition = "2024"   # optional, removes edition warning
 
 [lib]
 name = "pauli_algebra"
